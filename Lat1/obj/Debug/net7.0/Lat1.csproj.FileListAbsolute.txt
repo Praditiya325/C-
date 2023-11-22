@@ -1,0 +1,15 @@
+D:\Praditiya\toukk1_cl2\Lat1\bin\Debug\net7.0\Lat1.exe
+D:\Praditiya\toukk1_cl2\Lat1\bin\Debug\net7.0\Lat1.deps.json
+D:\Praditiya\toukk1_cl2\Lat1\bin\Debug\net7.0\Lat1.runtimeconfig.json
+D:\Praditiya\toukk1_cl2\Lat1\bin\Debug\net7.0\Lat1.dll
+D:\Praditiya\toukk1_cl2\Lat1\bin\Debug\net7.0\Lat1.pdb
+D:\Praditiya\toukk1_cl2\Lat1\obj\Debug\net7.0\Lat1.csproj.AssemblyReference.cache
+D:\Praditiya\toukk1_cl2\Lat1\obj\Debug\net7.0\Lat1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Praditiya\toukk1_cl2\Lat1\obj\Debug\net7.0\Lat1.AssemblyInfoInputs.cache
+D:\Praditiya\toukk1_cl2\Lat1\obj\Debug\net7.0\Lat1.AssemblyInfo.cs
+D:\Praditiya\toukk1_cl2\Lat1\obj\Debug\net7.0\Lat1.csproj.CoreCompileInputs.cache
+D:\Praditiya\toukk1_cl2\Lat1\obj\Debug\net7.0\Lat1.dll
+D:\Praditiya\toukk1_cl2\Lat1\obj\Debug\net7.0\refint\Lat1.dll
+D:\Praditiya\toukk1_cl2\Lat1\obj\Debug\net7.0\Lat1.pdb
+D:\Praditiya\toukk1_cl2\Lat1\obj\Debug\net7.0\Lat1.genruntimeconfig.cache
+D:\Praditiya\toukk1_cl2\Lat1\obj\Debug\net7.0\ref\Lat1.dll
